@@ -4,3 +4,6 @@ list down the enviroment
 
 to Activate the Env 
 ```conda activate <ENV_NAME>```
+
+to create a new enviroment
+```conda create -n <env_name> python=3.11 -y```
